@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "ES2016",
+    "module": "commonJS"
+  },
+  "include": [
+    "./src/**/*",
+    "./src/test/**/*"
+  ],
+  "exclude": ["node_modules"]
+}
